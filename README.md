@@ -8,6 +8,7 @@ The project you intend to complete: Pokedex
 Link: https://www.figma.com/design/9WBqtXaF4d5tgy9cansGrw/Pokedex---Web-III?node-id=0-1&t=1PwruuahuxVoIYtU-1
 
 
+[View the Mockup (PDF)](mockup.pdf)
 
 Design explaination:
 
