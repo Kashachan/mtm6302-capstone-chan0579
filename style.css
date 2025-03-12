@@ -1,0 +1,66 @@
+/* section 1 */
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 400; 
+    font-size: 1.1rem; 
+}
+
+.custom-navbar {
+    background-color: #CEECF7; 
+}
+
+
+
+.form-inline {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+}
+
+
+.custom-search-bar {
+    border: 2px solid black; 
+    border-radius: 0px; 
+}
+
+
+/* Carousel Slide Controls  */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: black;
+}
+
+.transparent-img {
+    opacity: 0.7; 
+}
+
+.pokemon-gallery {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap: 20px; 
+}
+
+.pokemon-item {
+    text-align: center; 
+    width: 120px; 
+}
+
+
+
+/* Animation and transitions */
+
+.nav-link {
+    color: black;
+    border: 2px solid transparent;
+    padding: 1px 15px; 
+    margin: 0 10px; 
+    transition: all 0.3s ease-in-out;
+}
+
+/* Hover effect */
+.nav-link:hover {
+    color: white; 
+    background-color: #ff5733; 
+    border: 2px solid white; 
+}

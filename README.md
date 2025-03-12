@@ -25,3 +25,21 @@ The backgrounds include trees, sky, and ocean, creating a natural, free-spirited
 For the typography, sans serif fonts were used to create a clean, user-friendly interface with excellent readability. To emphasize headings, DIN Alternate Bold was selected for its strong, black, bold style, establishing a clear visual hierarchy.
 
 Finally, the buttons were designed in brilliant colours to catch players' attention, engage them, and reflect the fun, interactive nature of the game. This aligns with the branding's playful and exciting spirit.
+
+
+Prototype Report:
+
+Steps Taken:
+1. Reviewed the project requirements.
+2. Used HTML to structure the content, including the Pokémon gallery and navigation and CSS for styling the page.
+3. Added a button to load more Pokémon.
+4. Ensured the web application was responsive across different devices using Bootstrap.
+5. Tested the prototype across multiple devices.
+
+Resources Used:
+1. Pokémon API: https://pokeapi.co/ to fetch Pokémon data.
+2. Bootstrap 5: https://getbootstrap.com/ for responsive layout.
+3. CSS Flexbox: For creating a flexible grid. 
+
+Challenges Faced:
+The biggest challenge was ensuring the app worked well on all devices, which took some effort. While Bootstrap’s grid system provided a solid base, I needed to add custom CSS to fine-tune the design for different screen sizes and ensure it was fully responsive.
