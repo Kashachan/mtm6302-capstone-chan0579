@@ -29,7 +29,7 @@ const loadPokemons = async (offset) => {
                 <!-- Pokemon items will go here -->
             </section>
             <div class="text-center">
-                <p><a href="javascript:void(0);" id="load-more" class="btn btn-warning mt-3">Load More</a></p>
+                <button id="load-more" class="btn btn-warning mt-3">Load More</button>
             </div>
         </div>
     `;
