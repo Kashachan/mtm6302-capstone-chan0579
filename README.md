@@ -40,6 +40,10 @@ Resources Used:
 1. Pokémon API: https://pokeapi.co/ to fetch Pokémon data.
 2. Bootstrap 5: https://getbootstrap.com/ for responsive layout.
 3. CSS Flexbox: For creating a flexible grid. 
+4. JavaScript:  For handling Pokémon data fetching, dynamic UI updates such as catching and releasing Pokémon.
 
 Challenges Faced:
-The biggest challenge was ensuring the app worked well on all devices, which took some effort. While Bootstrap’s grid system provided a solid base, I needed to add custom CSS to fine-tune the design for different screen sizes and ensure it was fully responsive.
+
+The biggest challenge was handling asynchronous data fetching from the Pokémon API and ensuring the Pokémon gallery loaded correctly. 
+
+Another challenge was ensuring the modal worked well on various screen sizes was tricky. I had to adjust the modal’s size and position using media queries for smaller screens to prevent it from overflowing.
